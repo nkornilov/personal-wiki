@@ -15,3 +15,6 @@ Ubuntu inotify watches .
 
     You may also need to pay attention to the 
     values of |{lng:bash}max_queued_events| and |{lng:bash}max_user_instances|
+
+   
+   More info[https://linux.die.net/man/7/inotify]
