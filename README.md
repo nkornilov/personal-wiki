@@ -1,4 +1,4 @@
 # wiki
-Personal article, tips and docs base
+Personal articles, tips and docs base
 
 [development](development)
