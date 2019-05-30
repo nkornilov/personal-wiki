@@ -29,4 +29,6 @@
         Verify that Docker CE is installed correctly by running the hello-world image
         |   sudo docker run hello-world
 
+    `Important`: Post-installation steps [https://docs.docker.com/install/linux/linux-postinstall]
+
     |More information| [https://docs.docker.com/install/linux/docker-ce/ubuntu]
