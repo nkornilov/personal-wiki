@@ -17,4 +17,4 @@ Ubuntu inotify watches .
     values of |{lng:bash}max_queued_events| and |{lng:bash}max_user_instances|
 
    
-   More info[https://linux.die.net/man/7/inotify]
+   |More information| [https://linux.die.net/man/7/inotify]
