@@ -1,4 +1,5 @@
 Js .
     [js node]
-    [os unix inotify watches]
+    [js os unix inotify watches]
+    [js vue]
 

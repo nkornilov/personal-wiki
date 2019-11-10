@@ -1,4 +1,4 @@
-Java Installation Linux[] .
+@Java Installation Linux .
 .   Add java repository to apt-get
     |   sudo add-apt-repository ppa:linuxuprising/java
 .   Update apt-get and install |oracle-java11-installer|
